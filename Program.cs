@@ -26,7 +26,7 @@ namespace contornoRet
                 Console.ResetColor();
                 Console.WriteLine();
 
-                Console.Write("Digite sua sua opção --> ");
+                Console.Write("Digite sua opção --> ");
                 opu = Console.ReadLine();
                 Console.WriteLine();
 
