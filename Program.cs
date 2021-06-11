@@ -73,11 +73,11 @@ namespace contornoRet
                 {
                     if(coluna2 == 1 || coluna2 == coluna)
                     {
-                        Console.Write("*");
+                        Console.Write("* ");
                     }
                     else
                     {
-                        Console.Write(" ");
+                        Console.Write("  ");
                     }
                 }
 
